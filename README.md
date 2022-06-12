@@ -1,4 +1,4 @@
-# PC_room
+# Java PC 방
 
 
 ### 1. 주제
